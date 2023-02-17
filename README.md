@@ -1,5 +1,7 @@
-# oniondotindex
+# oniondotindex 
+
 Awesome Onion Links
+
 FAQ
 What are .onion links?
 onion links are only accessible via the Tor Network, commonly known as the "dark web"
@@ -17,6 +19,7 @@ A particular onion link won't connect properly, am I doing something wrong
 No, this is most likely a problem on the website's end, onion links constantly go down and back up, so either try going to a mirror if there is one or go to a different onion link
 
 Disclaimer
+
 I only provide information about what exists on the dark web as informative/educational purposes only. I have listed many onion links that are still up and running with a legitimate purpose.
 
 Few onion links might be a scam, phishing, or contain illegal activities like drugs, weapons, illegal markets, fraudulent services, stolen data, etc., and many more. These activities may involve you at risk in danger by unknowingly. Kindly be aware of such activities which may take you and put yourself under risk.
