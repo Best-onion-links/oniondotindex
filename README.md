@@ -1,4 +1,4 @@
-# [oniondotindex] (https://oniondotindex.com)
+# [OnionDotIndex] (https://oniondotindex.com)
 
 Awesome Onion Links
 
